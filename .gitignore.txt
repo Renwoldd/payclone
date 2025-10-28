@@ -1,0 +1,21 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Laravel
+/vendor/
+/.env
+/storage/*.key
+
+# Environment
+.env.local
+.env.*.local
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Build
+/dist/
